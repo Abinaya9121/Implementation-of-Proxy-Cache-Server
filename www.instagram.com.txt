@@ -1,0 +1,1 @@
+b'HTTP/1.1 301 Moved Permanently\r\n'b'Location: https://www.instagram.com/\r\n'b'Content-Type: text/plain\r\n'b'Server: proxygen-bolt\r\n'b'X-FB-TRIP-ID: 1679558926\r\n'b'Alt-Svc: h3=":443"; ma=3600,h3-29=":443"; ma=3600\r\n'b'Date: Mon, 22 Nov 2021 16:09:43 GMT\r\n'b'Connection: keep-alive\r\n'b'Content-Length: 0\r\n'b'\r\n'
